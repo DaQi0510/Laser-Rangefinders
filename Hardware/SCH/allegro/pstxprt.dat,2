@@ -1,0 +1,610 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Sep-29-2016 at 10:09:13 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='VL53L0X';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS193777@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins193777@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins193777@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS215465@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins215465@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins215465@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS213056@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins213056@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins213056@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS213072@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins213072@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins213072@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS213317@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins213317@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins213317@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS216021@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins216021@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins216021@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP+_CAP-3216_10UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS881@MYLIBRARY.CAP+.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins881@mylibrary.\cap+.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins881@mylibrary.\cap+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS907@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins907@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins907@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP+_CAP-3216_10UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS1161@MYLIBRARY.CAP+.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins1161@mylibrary.\cap+.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins1161@mylibrary.\cap+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS1187@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins1187@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins1187@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP+_CAP-3216_10UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS187@MYLIBRARY.CAP+.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins187@mylibrary.\cap+.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins187@mylibrary.\cap+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS193793@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins193793@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins193793@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS351@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins351@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins351@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP+_CAP-3216_10UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS503@MYLIBRARY.CAP+.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins503@mylibrary.\cap+.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins503@mylibrary.\cap+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS565@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins565@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins565@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS193809@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins193809@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins193809@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS193825@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins193825@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins193825@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS228428@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins228428@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins228428@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS212156@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins212156@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins212156@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS212134@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins212134@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins212134@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS193829@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins193829@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins193829@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_0805_4.7UF':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS585@MYLIBRARY.CAP.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins585@mylibrary.\cap.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins585@mylibrary.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_H-2_RED':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS213571@MYLIBRARY.LED.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins213571@mylibrary.\led.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins213571@mylibrary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_H-2_RED':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS214273@MYLIBRARY.LED.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins214273@mylibrary.\led.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins214273@mylibrary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED-0603_POWER':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS1506@MYLIBRARY.LED.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins1506@mylibrary.\led.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins1506@mylibrary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER2*2_H-2-2_HEADER2*2':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS227638@MYLIBRARY.HEADER2*2.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins227638@mylibrary.\header2*2.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins227638@mylibrary.\header2*2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 2/SM_H-2_HEADER2':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS207119@CONNECTOR.HEADER 2/SM.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins207119@connector.\header 2/sm.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins207119@connector.\header 2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 2/SM_H-2_HEADER2':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS216792@CONNECTOR.HEADER 2/SM.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins216792@connector.\header 2/sm.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins216792@connector.\header 2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 'MTG_MTG-450-320_MTG':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):INS709@MYLIBRARY.MTG.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):ins709@mylibrary.\mtg.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_ins709@mylibrary.\mtg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M2 'MTG_MTG-450-320_MTG':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):INS785@MYLIBRARY.MTG.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):ins785@mylibrary.\mtg.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_ins785@mylibrary.\mtg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M3 'MTG_MTG-450-320_MTG':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):INS818@MYLIBRARY.MTG.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):ins818@mylibrary.\mtg.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_ins818@mylibrary.\mtg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M4 'MTG_MTG-450-320_MTG':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):INS852@MYLIBRARY.MTG.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):ins852@mylibrary.\mtg.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_ins852@mylibrary.\mtg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ O1 'OSC-N_OSC-3225_8M':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS212114@MYLIBRARY.OSC-N.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins212114@mylibrary.\osc-n.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins212114@mylibrary.\osc-n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'S9014_S9014-SOT23_S9014':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS213407@MYLIBRARY.S9014.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins213407@mylibrary.\s9014.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins213407@mylibrary.\s9014.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'S9014_S9014-SOT23_S9014':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS214215@MYLIBRARY.S9014.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins214215@mylibrary.\s9014.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins214215@mylibrary.\s9014.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS206676@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins206676@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins206676@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RES_0603_0R':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS212114@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins212114@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins212114@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS212930@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins212930@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins212930@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS212956@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins212956@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins212956@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS215674@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins215674@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins215674@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RES_0603_200R':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS214257@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins214257@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins214257@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RES_0603_200R':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS213546@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins213546@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins213546@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES_0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS213435@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins213435@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins213435@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RES_0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS214233@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins214233@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins214233@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RES_0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS206722@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins206722@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins206722@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS206702@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins206702@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins206702@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS227672@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins227672@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins227672@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS227700@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins227700@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins227700@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS211874@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins211874@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins211874@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS211989@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins211989@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins211989@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS211946@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins211946@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins211946@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS211920@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins211920@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins211920@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RES_0603_10K':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS211894@MYLIBRARY.RES.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins211894@mylibrary.\res.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins211894@mylibrary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103RBT6_STM32F103_LQFP64_':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):STM32F103@VL53L0X.MCU(SCH_1):INS150@MYLIBRARY.STM32F103RBT6.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):stm32f103@vl53l0x.mcu(sch_1):ins150@mylibrary.\stm32f103rbt6.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_stm32f103@vl53l0x.mcu(sch_1):page2_ins150@mylibrary.\stm32f103rbt6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TXS0108EPWR_TXS0108EPWR-TSSOP20':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS194027@MYLIBRARY.TXS0108EPWR.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins194027@mylibrary.\txs0108epwr.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins194027@mylibrary.\txs0108epwr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'VL53L0X_VL53L0X_VL53L0X':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS46@MYLIBRARY.VL53L0X.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins46@mylibrary.\vl53l0x.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins46@mylibrary.\vl53l0x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'AT24C02_AT24C02-SOIC_AT24C02':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS212561@MYLIBRARY.AT24C02.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins212561@mylibrary.\at24c02.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins212561@mylibrary.\at24c02.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 '0.96LCD_H-3-2_0.96LCD':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):VL53L0X@VL53L0X.MODULE(SCH_1):INS214701@MYLIBRARY.0.96LCD.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):vl53l0x@vl53l0x.module(sch_1):ins214701@mylibrary.\0.96lcd.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_vl53l0x@vl53l0x.module(sch_1):page3_ins214701@mylibrary.\0.96lcd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'TPS78228DDCR_SOT-25_TPS78228DDC':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS77@MYLIBRARY.TPS78228DDCR.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins77@mylibrary.\tps78228ddcr.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins77@mylibrary.\tps78228ddcr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'XC6219F331_SOT-25_XC6219F331':;
+
+SECTION_NUMBER 1
+ '@VL53L0X.TOP(SCH_1):POWER@VL53L0X.POWER(SCH_1):INS114@MYLIBRARY.XC6219F331.NORMAL(CHIPS)':
+ C_PATH='@vl53l0x.top(sch_1):power@vl53l0x.power(sch_1):ins114@mylibrary.\xc6219f331.normal\(chips)',
+ P_PATH='@vl53l0x.top(sch_1):page1_power@vl53l0x.power(sch_1):page4_ins114@mylibrary.\xc6219f331.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

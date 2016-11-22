@@ -1,0 +1,295 @@
+\t (00:00:04) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:04)     Journal start - Sat Oct 01 09:21:37 2016
+\t (00:00:04)         Host=DESKTOP-5QD1SMV User=DaQi Pid=7096 CPUs=4
+\t (00:00:04) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: F:/对外项目/激光测距/Hardware/PCB/VL53L0X.brd
+\i (00:00:06) trapsize 3041
+\i (00:00:06) trapsize 2959
+\i (00:00:06) trapsize 3055
+\i (00:00:07) trapsize 2546
+\i (00:00:07) trapsize 2546
+\i (00:00:08) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 1072.30 396.39
+\i (00:00:10) trapsize 1273
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 1072.30 396.39
+\i (00:00:10) trapsize 636
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1072.30 396.40
+\i (00:00:11) trapsize 318
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 1072.31 396.40
+\i (00:00:11) trapsize 636
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 1072.31 396.41
+\i (00:00:11) trapsize 1273
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 1072.30 396.40
+\i (00:00:11) trapsize 2546
+\i (00:00:19) artwork 
+\i (00:00:28) setwindow form.film_control
+\i (00:00:28) FORM film_control filmtree popup Add SILKSCREEN_BOTTOM 
+\i (00:00:33) fillin "menu_cancel"
+\i (00:00:35) FORM film_control filmtree popup Add 'BOARD GEOMETRY/OUTLINE' SILKSCREEN_BOTTOM 
+\i (00:00:43) setwindow form.scl_browser
+\i (00:00:43) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_BOTTOM 'REF DES' 
+\i (00:00:43) FORM scl_browser treelist  SILKSCREEN_BOTTOM 'REF DES' 
+\i (00:00:44) FORM scl_browser done  
+\i (00:00:48) setwindow form.film_control
+\i (00:00:48) FORM film_control filmtree  'BOARD GEOMETRY/OUTLINE' SILKSCREEN_TOP 
+\i (00:00:49) FORM film_control filmtree popup Add 'BOARD GEOMETRY/OUTLINE' SILKSCREEN_TOP 
+\i (00:00:56) setwindow form.scl_browser
+\i (00:00:56) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'REF DES' 
+\i (00:00:56) FORM scl_browser treelist  SILKSCREEN_TOP 'REF DES' 
+\i (00:00:57) FORM scl_browser done  
+\i (00:01:00) setwindow form.film_control
+\i (00:01:00) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:01:07) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom in 405.30 -133.12
+\i (00:01:11) trapsize 1273
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 552.96 177.47
+\i (00:01:12) trapsize 636
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 645.89 143.10
+\i (00:01:13) trapsize 1273
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 775.72 382.41
+\i (00:01:14) trapsize 636
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 775.73 377.32
+\i (00:01:17) trapsize 1273
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 1063.40 160.93
+\i (00:01:18) trapsize 636
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 1063.41 160.94
+\i (00:01:18) trapsize 318
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 1062.77 162.85
+\i (00:01:18) trapsize 636
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 1062.77 162.84
+\i (00:01:18) trapsize 1273
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 1062.78 162.85
+\i (00:01:19) trapsize 2546
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in -205.70 468.35
+\i (00:01:21) trapsize 1273
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out -205.70 465.80
+\i (00:01:22) trapsize 2546
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in -205.70 465.81
+\i (00:01:23) trapsize 1273
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -205.70 465.81
+\i (00:01:24) trapsize 2546
+\i (00:01:36) plot 
+\i (00:01:44) plot setup 
+\i (00:02:02) setwindow form.fpfileplotsetup
+\i (00:02:02) FORM fpfileplotsetup windows  
+\i (00:02:03) FORM fpfileplotsetup general  
+\i (00:02:05) FORM fpfileplotsetup done  
+\i (00:02:05) setwindow pcb
+\i (00:02:05) generaledit 
+\i (00:02:07) plot 
+\i (00:02:17) plotwint initialize "PDFCreator"
+\i (00:02:17) plotwint orientation 1
+\i (00:02:17) plotwint papername "A4"
+\i (00:02:17) plotwint scale 100
+\i (00:02:17) plotwint copies 1
+\i (00:02:17) plotwint defaultsource 15
+\i (00:02:17) plotwint printquality 600
+\i (00:02:17) plotwint color 2
+\i (00:02:17) plotwint execute
+\i (00:02:45) zoom in 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in -282.07 542.19
+\i (00:02:45) trapsize 1273
+\i (00:02:46) zoom out 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out -236.24 572.74
+\i (00:02:46) trapsize 2546
+\i (00:02:47) drag_start grid -353.36 1519.79
+\i (00:02:48) drag_stop 1856.43 -206.28
+\i (00:02:59) setwindow form.vf_vis
+\i (00:02:59) FORM vf_vis colorview_list Film: SILKSCREEN_TOP 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) pick grid 3134.43 796.77
+\t (00:03:00) last pick:  3134.40 796.80
+\i (00:03:02) drag_start grid -251.52 1550.34
+\i (00:03:03) drag_stop 2055.00 -129.91
+\i (00:03:08) plot preview 
+\i (00:03:08) trapsize 2422
+\i (00:03:15) trapsize 2546
+\i (00:03:24) prmed 
+\i (00:03:26) setwindow form.prmedit
+\i (00:03:26) FORM prmedit design  
+\i (00:03:45) FORM prmedit cancel  
+\i (00:03:45) setwindow pcb
+\i (00:03:45) generaledit 
+\i (00:03:51) plot setup 
+\i (00:04:00) setwindow form.fpfileplotsetup
+\i (00:04:00) FORM fpfileplotsetup fpplotblackwhite YES 
+\i (00:04:06) FORM fpfileplotsetup fpplotfittopage YES 
+\i (00:04:11) FORM fpfileplotsetup done  
+\i (00:04:11) setwindow pcb
+\i (00:04:11) generaledit 
+\i (00:04:14) script 
+\i (00:04:18) plot 
+\w (00:04:18) WARNING(SPMHMF-375): Holes will generally not appear in a 'Black and white' plot. [help]
+\i (00:04:20) plotwint initialize "PDFCreator"
+\i (00:04:20) plotwint execute
+\i (00:16:57) plot setup 
+\i (00:17:02) setwindow form.fpfileplotsetup
+\i (00:17:02) FORM fpfileplotsetup fpplotscaling YES 
+\i (00:17:04) setwindow pcb
+\i (00:17:04) pick grid -195.52 1489.24
+\t (00:17:04) last pick:  -195.50 1489.20
+\i (00:17:04) generaledit 
+\i (00:17:13) setwindow form.fpfileplotsetup
+\i (00:17:13) FORM fpfileplotsetup fpplotfittopage YES 
+\i (00:17:14) FORM fpfileplotsetup windows  
+\i (00:17:16) FORM fpfileplotsetup general  
+\i (00:17:21) FORM fpfileplotsetup cancel  
+\i (00:17:21) setwindow pcb
+\i (00:17:21) generaledit 
+\i (00:17:22) zoom in 1 
+\i (00:17:22) setwindow pcb
+\i (00:17:22) zoom in 883.92 944.43
+\i (00:17:22) trapsize 1273
+\i (00:17:22) zoom out 1 
+\i (00:17:22) setwindow pcb
+\i (00:17:22) zoom out 883.92 944.44
+\i (00:17:22) trapsize 2546
+\i (00:17:24) zoom in 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom in 629.33 282.52
+\i (00:17:24) trapsize 1273
+\i (00:17:25) zoom out 1 
+\i (00:17:25) setwindow pcb
+\i (00:17:25) zoom out 629.34 279.97
+\i (00:17:25) trapsize 2546
+\i (00:21:28) setwindow form.vf_vis
+\i (00:21:28) FORM vf_vis colorview_list Film: SILKSCREEN_BOTTOM 
+\i (00:21:30) setwindow pcb
+\i (00:21:30) zoom in 1 
+\i (00:21:30) setwindow pcb
+\i (00:21:30) zoom in 950.11 677.12
+\i (00:21:30) trapsize 1273
+\i (00:21:30) zoom in 1 
+\i (00:21:30) setwindow pcb
+\i (00:21:30) zoom in 947.57 677.13
+\i (00:21:30) trapsize 636
+\i (00:21:30) zoom out 1 
+\i (00:21:30) setwindow pcb
+\i (00:21:30) zoom out 1264.53 604.58
+\i (00:21:31) trapsize 1273
+\i (00:21:32) zoom in 1 
+\i (00:21:32) setwindow pcb
+\i (00:21:32) zoom in 925.94 879.52
+\i (00:21:32) trapsize 636
+\i (00:21:33) zoom out 1 
+\i (00:21:33) setwindow pcb
+\i (00:21:33) zoom out 939.94 854.06
+\i (00:21:33) trapsize 1273
+\i (00:21:36) zoom out 1 
+\i (00:21:36) setwindow pcb
+\i (00:21:36) zoom out 945.04 869.34
+\i (00:21:36) trapsize 2546
+\i (00:21:41) zoom in 1 
+\i (00:21:41) setwindow pcb
+\i (00:21:41) zoom in 975.57 864.25
+\i (00:21:41) trapsize 1273
+\i (00:21:42) zoom out 1 
+\i (00:21:42) setwindow pcb
+\i (00:21:42) zoom out 985.76 846.44
+\i (00:21:42) trapsize 2546
+\i (00:21:46) plot 
+\w (00:21:46) WARNING(SPMHMF-375): Holes will generally not appear in a 'Black and white' plot. [help]
+\i (00:21:47) plotwint initialize "PDFCreator"
+\i (00:21:47) plotwint execute
+\i (00:22:51) zoom in 1 
+\i (00:22:51) setwindow pcb
+\i (00:22:51) zoom in 878.83 734.42
+\i (00:22:51) trapsize 1273
+\i (00:22:51) zoom in 1 
+\i (00:22:51) setwindow pcb
+\i (00:22:51) zoom in 878.83 734.42
+\i (00:22:51) trapsize 636
+\i (00:22:51) zoom in 1 
+\i (00:22:51) setwindow pcb
+\i (00:22:51) zoom in 878.84 734.42
+\i (00:22:51) trapsize 318
+\i (00:22:51) zoom out 1 
+\i (00:22:51) setwindow pcb
+\i (00:22:51) zoom out 883.30 703.24
+\i (00:22:51) trapsize 636
+\i (00:22:54) zoom in 1 
+\i (00:22:54) setwindow pcb
+\i (00:22:54) zoom in 810.74 574.68
+\i (00:22:54) trapsize 318
+\i (00:22:54) zoom in 1 
+\i (00:22:54) setwindow pcb
+\i (00:22:54) zoom in 817.74 579.13
+\i (00:22:54) trapsize 159
+\i (00:22:54) zoom in 1 
+\i (00:22:54) setwindow pcb
+\i (00:22:54) zoom in 817.74 580.40
+\i (00:22:54) trapsize 80
+\i (00:22:55) zoom in 1 
+\i (00:22:55) setwindow pcb
+\i (00:22:55) zoom in 817.75 580.73
+\i (00:22:55) trapsize 40
+\i (00:22:55) zoom out 1 
+\i (00:22:55) setwindow pcb
+\i (00:22:55) zoom out 817.75 580.73
+\i (00:22:55) trapsize 80
+\i (00:22:55) zoom out 1 
+\i (00:22:55) setwindow pcb
+\i (00:22:55) zoom out 817.75 580.72
+\i (00:22:55) trapsize 159
+\i (00:22:55) zoom out 1 
+\i (00:22:55) setwindow pcb
+\i (00:22:55) zoom out 817.76 580.73
+\i (00:22:55) trapsize 318
+\i (00:22:55) zoom out 1 
+\i (00:22:55) setwindow pcb
+\i (00:22:55) zoom out 817.12 580.73
+\i (00:22:55) trapsize 636
+\i (00:23:08) zoom out 1 
+\i (00:23:08) setwindow pcb
+\i (00:23:08) zoom out 1002.96 607.45
+\i (00:23:08) trapsize 1273
+\i (00:23:16) exit 
+\e (00:23:16) Do you want to save the changes you made to VL53L0X.brd?
+\i (00:23:17) fillin no 
+\t (00:23:19)     Journal end - Sat Oct 01 09:44:52 2016

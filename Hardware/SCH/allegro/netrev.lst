@@ -1,0 +1,86 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : VL53L0X.brd                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Sep 28 15:59:59 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'F:\对外项目\激光测距\HARDWARE\SCH\allegro'
+Design Directory:            '.'
+Old design name:             'F:/对外项目/激光测距/HARDWARE/SCH/allegro/VL53L0X.brd'
+New design name:             'F:/对外项目/激光测距/HARDWARE/SCH/allegro/VL53L0X.brd'
+
+CmdLine: netrev.exe -y 1 -n -i F:\对外项目\激光测距\HARDWARE\SCH\allegro F:\对外项目\激光测距\HARDWARE\SCH\allegro\VL53L0X.brd F:\对外项目\激光测距\HARDWARE\SCH\allegro\VL53L0X.brd
+
+------ Preparing to read pst files ------
+
+Starting to read F:/对外项目/激光测距/HARDWARE/SCH/allegro/pstchip.dat 
+   Finished reading F:/对外项目/激光测距/HARDWARE/SCH/allegro/pstchip.dat (00:00:00.12)
+Starting to read F:/对外项目/激光测距/HARDWARE/SCH/allegro/pstxprt.dat 
+   Finished reading F:/对外项目/激光测距/HARDWARE/SCH/allegro/pstxprt.dat (00:00:00.00)
+Starting to read F:/对外项目/激光测距/HARDWARE/SCH/allegro/pstxnet.dat 
+   Finished reading F:/对外项目/激光测距/HARDWARE/SCH/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   ERROR(SPMHNI-191): Device/Symbol check error detected.
+
+ERROR(SPMHNI-195): Symbol 'H-2' for device 'KEY_H-2_KEY' is missing pin '3'.
+
+ERROR(SPMHNI-195): Symbol 'H-2' for device 'KEY_H-2_KEY' is missing pin '4'.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/modules 
+
+PSMPATH =  F:/CADENCE LIB/cadence-lib-new/PSM/ 
+
+PADPATH =  F:/CADENCE LIB/cadence-lib-new/PAD/ 
+
+
+------ Summary Statistics ------
+
+
+#2   Run stopped because errors were detected
+
+netrev run on Sep 28 15:59:59 2016
+   DESIGN NAME : 'VL53L0X'
+   PACKAGING ON Feb 15 2016 19:53:59
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+  2 errors detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:13
+elapsed time  0:00:00
+

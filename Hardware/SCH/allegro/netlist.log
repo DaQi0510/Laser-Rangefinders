@@ -1,0 +1,15 @@
+{ Using PSTWRITER 16.6.0 d001Sep-29-2016 at 10:37:31 }
+
+#1 WARNING(ORCAP-36006): Part Name "STM32F103RBT6_STM32F103_LQFP64_STM32F103RBT6" is renamed to "STM32F103RBT6_STM32F103_LQFP64_".
+#2 WARNING(ORCAP-36006): Part Name "TXS0108EPWR_TXS0108EPWR-TSSOP20_TXS0108EPWR" is renamed to "TXS0108EPWR_TXS0108EPWR-TSSOP20".
+#3 WARNING(ORCAP-36006): Part Name "TPS78228DDCR_SOT-25_TPS78228DDCR" is renamed to "TPS78228DDCR_SOT-25_TPS78228DDC".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... F:\对外项目\激光测距\HARDWARE\SCH\allegro/pstchip.dat
+
+Loading... F:\对外项目\激光测距\HARDWARE\SCH\allegro/pstchip.dat
+
+Loading... F:\对外项目\激光测距\HARDWARE\SCH\allegro/pstxprt.dat
+
+Loading... F:\对外项目\激光测距\HARDWARE\SCH\allegro/pstxnet.dat
+packaging the design view...

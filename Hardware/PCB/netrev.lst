@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : VL53L0X.brd                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Sep 29 10:37:44 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'F:/对外项目/激光测距/Hardware/SCH/allegro'
+Design Directory:            '.'
+Old design name:             'F:/对外项目/激光测距/Hardware/PCB/VL53L0X.brd'
+New design name:             'F:/对外项目/激光测距/Hardware/PCB/VL53L0X.brd'
+
+CmdLine: netrev -$ -i F:/对外项目/激光测距/Hardware/SCH/allegro -y 1 -q netrev_constraint_report.xml F:/对外项目/激光测距/Hardware/PCB/#Taaaaaj06944.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read F:/对外项目/激光测距/Hardware/SCH/allegro/pstchip.dat 
+   Finished reading F:/对外项目/激光测距/Hardware/SCH/allegro/pstchip.dat (00:00:00.09)
+Starting to read F:/对外项目/激光测距/Hardware/SCH/allegro/pstxprt.dat 
+   Finished reading F:/对外项目/激光测距/Hardware/SCH/allegro/pstxprt.dat (00:00:00.01)
+Starting to read F:/对外项目/激光测距/Hardware/SCH/allegro/pstxnet.dat 
+   Finished reading F:/对外项目/激光测距/Hardware/SCH/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/modules 
+
+PSMPATH =  F:/CADENCE LIB/cadence-lib-new/PSM/ 
+
+PADPATH =  F:/CADENCE LIB/cadence-lib-new/PAD/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Sep 29 10:37:44 2016
+   DESIGN NAME : 'VL53L0X'
+   PACKAGING ON Feb 15 2016 19:53:59
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:10
+elapsed time  0:00:01
+

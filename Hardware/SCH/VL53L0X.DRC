@@ -1,0 +1,311 @@
+Date and Time : 09/28/16 16:21:34
+
+--------------------------------------------------
+Checking Schematic: Top
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    GND
+
+Reporting Net Names
+    N00686
+    N00698
+    N00134
+    N00232
+    N00690
+    GND
+    N00130
+    N00228
+    N00694
+    N00401
+    N00397
+    N00138
+    N00288
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: Module
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    INT
+    SCL
+    SDA
+    Key
+    AT24C02_SCL
+    AT24C02_SDA
+    LED1
+    LED2
+    LCD_RST
+    LCD_SCL
+    LCD_SDA
+    LCD_DC
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VDD3.3
+    VDD2.8
+    VCC_5V
+    GND
+
+Reporting Net Names
+    AT24C02_SCL
+    INT
+    KEY
+    LED2
+    N2142271
+    LCD_SCL
+    N1940739
+    N214670
+    LCD_DC
+    LED1
+    SCL
+    VDD3.3
+    N2134190
+    N212009
+    N214668
+    LCD_RST
+    N212023
+    VDD2.8
+    AT24C02_SDA
+    SDA
+    GND
+    N2142270
+    N212005
+    N2142670
+    LCD_SDA
+    N212016
+    VCC_5V
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: MCU
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+    C7  -  STM32F103RBT6 (115.32, 153.42)
+    O1  -  STM32F103RBT6 (95.00, 143.26)
+    C6  -  STM32F103RBT6 (77.22, 153.42)
+    VDD3.3  -  STM32F103RBT6 (39.88, 134.62)
+    GND  -  STM32F103RBT6 (39.62, 147.07)
+    GND  -  STM32F103RBT6 (84.84, 148.34)
+    GND  -  STM32F103RBT6 (115.32, 143.26)
+    GND  -  STM32F103RBT6 (97.54, 163.58)
+    VDD3.3  -  STM32F103RBT6 (42.42, 137.16)
+    GND  -  STM32F103RBT6 (42.16, 144.78)
+    VDD3.3  -  STM32F103RBT6 (42.42, 137.16)
+    GND  -  STM32F103RBT6 (42.16, 147.07)
+    GND  -  STM32F103RBT6 (42.16, 144.78)
+    GND  -  STM32F103RBT6 (42.16, 144.78)
+    OSC_IN  -  STM32F103RBT6 (117.86, 150.88)
+    OSC_IN  -  STM32F103RBT6 (115.32, 150.88)
+    OSC_OUT  -  STM32F103RBT6 (87.38, 145.80)
+    OSC_OUT  -  STM32F103RBT6 (79.76, 145.80)
+    OSC_OUT  -  STM32F103RBT6 (79.76, 150.88)
+    OSC_OUT  -  STM32F103RBT6 (79.76, 145.80)
+    GND  -  STM32F103RBT6 (100.08, 158.50)
+    GND  -  STM32F103RBT6 (79.76, 158.50)
+    GND  -  STM32F103RBT6 (100.08, 163.58)
+    GND  -  STM32F103RBT6 (100.08, 158.50)
+    GND  -  STM32F103RBT6 (117.86, 158.50)
+    GND  -  STM32F103RBT6 (100.08, 158.50)
+
+Reporting Ports
+    INT
+    SCL
+    SDA
+    Key
+    AT24C02_SCL
+    AT24C02_SDA
+    LED1
+    LED2
+    LCD_RST
+    LCD_SCL
+    LCD_SDA
+    LCD_DC
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VDD3.3
+    GND
+
+Reporting Net Names
+    OSC_OUT
+    LED1
+    OSC_IN
+    LED2
+    JTMS
+    AT24C02_SCL
+    GND
+    VDD3.3
+    KEY
+    LCD_SCL
+    NRST
+    SCL
+    AT24C02_SDA
+    N206718
+    INT
+    LCD_DC
+    N206722
+    LCD_SDA
+    SDA
+    JTCK
+    LCD_RST
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: Power
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VDD3.3
+    VCC_5V
+    VDD2.8
+    GND
+
+Reporting Net Names
+    VCC_5V
+    VDD3.3
+    N015161
+    VDD2.8
+    GND
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: Top
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: Module
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: MCU
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: Power
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: VL53L0X 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

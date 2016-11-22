@@ -1,0 +1,98 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : VL53L0X.brd                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Sep 28 22:55:09 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Sep 28 22:55:09 2016				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'F:/对外项目/激光测距/Hardware/PCB/VL53L0X.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  F:/CADENCE LIB/cadence-lib-new/PSM/ 
+
+PADPATH =  F:/CADENCE LIB/cadence-lib-new/PAD/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'VIA-12-20'  pad stack refresh starting.
+
+     'VIA-12-20'  pad stack refreshed successfully.
+     
+'B112_60'  pad stack refresh starting.
+
+     'B112_60'  pad stack refreshed successfully.
+     
+'R155_60'  pad stack refresh starting.
+
+     'R155_60'  pad stack refreshed successfully.
+     
+'R60_50'  pad stack refresh starting.
+
+     'R60_50'  pad stack refreshed successfully.
+     
+'B155_32'  pad stack refresh starting.
+
+     'B155_32'  pad stack refreshed successfully.
+     
+'B120_30'  pad stack refresh starting.
+
+     'B120_30'  pad stack refreshed successfully.
+     
+'R100_60'  pad stack refresh starting.
+
+     'R100_60'  pad stack refreshed successfully.
+     
+'R140_110'  pad stack refresh starting.
+
+     'R140_110'  pad stack refreshed successfully.
+     
+'MTG-450-320'  pad stack refresh starting.
+
+     'MTG-450-320'  pad stack refreshed successfully.
+     
+'R150_80'  pad stack refresh starting.
+
+     'R150_80'  pad stack refreshed successfully.
+     
+'C150H90'  pad stack refresh starting.
+
+     'C150H90'  pad stack refreshed successfully.
+     
+'R75_80'  pad stack refresh starting.
+
+     'R75_80'  pad stack refreshed successfully.
+     
+'C160H105T155_190_40'  pad stack refresh starting.
+
+     'C160H105T155_190_40'  pad stack refreshed successfully.
+     
+'S160H105T155_190_40'  pad stack refresh starting.
+
+     'S160H105T155_190_40'  pad stack refreshed successfully.
+     
+'R57_140'  pad stack refresh starting.
+
+     'R57_140'  pad stack refreshed successfully.
+     
+'R180_120'  pad stack refresh starting.
+
+     'R180_120'  pad stack refreshed successfully.
+     
+'R42_95'  pad stack refresh starting.
+
+     'R42_95'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

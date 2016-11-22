@@ -1,0 +1,553 @@
+\t (00:00:13) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:13)     Journal start - Fri Sep 30 10:31:50 2016
+\t (00:00:13)         Host=DESKTOP-5QD1SMV User=DaQi Pid=6912 CPUs=4
+\t (00:00:13) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:13) 
+   (00:00:13) Loading axlcore.cxt 
+\t (00:00:15) Opening existing design...
+\d (00:00:15) Design opened: F:/对外项目/激光测距/Hardware/PCB/VL53L0X.brd
+\i (00:00:15) trapsize 4865
+\i (00:00:15) trapsize 4735
+\i (00:00:15) trapsize 4888
+\i (00:00:17) trapsize 4073
+\i (00:00:17) trapsize 4073
+\i (00:00:17) generaledit 
+\i (00:01:10) artwork 
+\i (00:01:15) setwindow form.film_control
+\i (00:01:15) FORM film_control cancel  
+\i (00:01:15) setwindow pcb
+\i (00:01:15) generaledit 
+\i (00:01:23) nctape_full 
+\i (00:01:25) setwindow form.nc_drill
+\i (00:01:25) FORM nc_drill parameters  
+\i (00:01:32) setwindow form.nc_parameters
+\i (00:01:32) FORM nc_parameters cancel  
+\i (00:01:33) setwindow form.nc_drill
+\i (00:01:33) FORM nc_drill cancel  
+\i (00:01:33) setwindow pcb
+\i (00:01:33) generaledit 
+\i (00:01:36) ncdrill legend 
+   (00:01:36) Loading mfg.cxt 
+\i (00:01:44) setwindow form.nc_drilllegend
+\i (00:01:44) FORM nc_drilllegend done  
+\i (00:01:46) setwindow pcb
+\i (00:01:46) pick grid 1484.74 1619.93
+\t (00:01:46) last pick:  1484.70 1619.90
+\t (00:01:46) NC Drill Legend generation successful
+\i (00:01:46) generaledit 
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 1745.43 55.77
+\i (00:01:51) trapsize 2037
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 1773.95 55.77
+\i (00:01:51) trapsize 1018
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 1773.95 55.77
+\i (00:01:51) trapsize 509
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 1773.96 55.78
+\i (00:01:51) trapsize 255
+\i (00:01:52) zoom out 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom out 1799.93 67.49
+\i (00:01:52) trapsize 509
+\i (00:01:52) zoom out 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom out 1799.93 66.48
+\i (00:01:52) trapsize 1018
+\i (00:01:53) zoom in 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom in 1932.32 481.96
+\i (00:01:53) trapsize 509
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 1933.34 501.31
+\i (00:01:54) trapsize 1018
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 1933.34 499.27
+\i (00:01:54) trapsize 2037
+\i (00:02:10) artwork 
+\i (00:02:57) setwindow form.film_control
+\i (00:02:57) FORM film_control filmtree  DRILL 
+\i (00:02:58) FORM film_control filmtree  PASTEMASK_BOTTOM 
+\i (00:02:59) FORM film_control filmtree  PASTEMASK_TOP 
+\i (00:03:00) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:03:01) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:03:02) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:03:02) FORM film_control filmtree  TOP 
+\i (00:03:04) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:03:04) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:03:05) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:03:05) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:03:06) FORM film_control filmtree  PASTEMASK_TOP 
+\i (00:03:06) FORM film_control filmtree  PASTEMASK_BOTTOM 
+\i (00:03:07) FORM film_control filmtree  DRILL 
+\i (00:03:08) FORM film_control filmtree  BOTTOM 
+\i (00:03:09) FORM film_control filmtree  DRILL 
+\i (00:03:11) FORM film_control filmtree  PASTEMASK_TOP 
+\i (00:03:12) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:03:12) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:03:13) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:03:14) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:03:14) FORM film_control filmtree  TOP 
+\i (00:03:26) FORM film_control undefined_line_width 1.00 
+\i (00:03:26) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:03:29) FORM film_control undefined_line_width 1.00 
+\i (00:03:29) FORM film_control filmtree  SOLDERMASK_BOTTOM 
+\i (00:03:33) FORM film_control undefined_line_width 1.00 
+\i (00:03:34) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:03:37) FORM film_control undefined_line_width 1.00 
+\i (00:03:37) FORM film_control filmtree  SILKSCREEN_BOTTOM 
+\i (00:03:41) FORM film_control undefined_line_width 1.00 
+\i (00:03:42) FORM film_control filmtree  PASTEMASK_TOP 
+\i (00:03:45) FORM film_control undefined_line_width 1.00 
+\i (00:03:45) FORM film_control filmtree  PASTEMASK_BOTTOM 
+\i (00:03:51) FORM film_control undefined_line_width 1.00 
+\i (00:03:52) FORM film_control filmtree  DRILL 
+\i (00:03:53) FORM film_control filmtree  BOTTOM 
+\i (00:03:55) FORM film_control general_parameters  
+\i (00:03:58) FORM film_control film_control  
+\i (00:14:24) FORM film_control apertures  
+\i (00:14:25) setwindow form.apt_wheels
+\i (00:14:25) FORM apt_wheels cancel  
+\i (00:14:26) setwindow form.film_control
+\i (00:14:26) FORM film_control general_parameters  
+\i (00:14:46) FORM film_control viewlog  
+\i (00:15:59) setwindow text
+\i (00:15:59) close 
+\i (00:16:02) setwindow form.film_control
+\i (00:16:02) FORM film_control cancel  
+\i (00:16:02) setwindow pcb
+\i (00:16:02) generaledit 
+\i (00:16:03) zoom out 1 
+\i (00:16:03) setwindow pcb
+\i (00:16:03) zoom out 1941.49 -160.89
+\i (00:16:03) trapsize 4073
+\i (00:16:03) zoom out 1 
+\i (00:16:03) setwindow pcb
+\i (00:16:03) zoom out 2771.91 678.22
+\i (00:16:03) trapsize 8147
+\i (00:16:04) zoom in 1 
+\i (00:16:04) setwindow pcb
+\i (00:16:04) zoom in 417.52 91.65
+\i (00:16:04) trapsize 4073
+\i (00:16:07) zoom in 1 
+\i (00:16:07) setwindow pcb
+\i (00:16:07) zoom in 336.05 270.88
+\i (00:16:07) trapsize 2037
+\i (00:16:07) zoom in 1 
+\i (00:16:07) setwindow pcb
+\i (00:16:07) zoom in 336.05 270.89
+\i (00:16:07) trapsize 1018
+\i (00:16:07) zoom in 1 
+\i (00:16:07) setwindow pcb
+\i (00:16:07) zoom in 338.09 256.64
+\i (00:16:07) trapsize 509
+\i (00:16:08) zoom out 1 
+\i (00:16:08) setwindow pcb
+\i (00:16:08) zoom out 338.10 256.64
+\i (00:16:08) trapsize 1018
+\i (00:16:08) zoom out 1 
+\i (00:16:08) setwindow pcb
+\i (00:16:08) zoom out 338.09 256.65
+\i (00:16:08) trapsize 2037
+\i (00:16:08) zoom in 1 
+\i (00:16:08) setwindow pcb
+\i (00:16:08) zoom in 476.57 81.49
+\i (00:16:08) trapsize 1018
+\i (00:16:09) zoom in 1 
+\i (00:16:09) setwindow pcb
+\i (00:16:09) zoom in 448.06 79.45
+\i (00:16:09) trapsize 509
+\i (00:16:09) zoom in 1 
+\i (00:16:09) setwindow pcb
+\i (00:16:09) zoom in 448.06 79.46
+\i (00:16:09) trapsize 255
+\i (00:16:09) zoom out 1 
+\i (00:16:09) setwindow pcb
+\i (00:16:09) zoom out 654.79 161.94
+\i (00:16:09) trapsize 509
+\i (00:16:09) zoom out 1 
+\i (00:16:09) setwindow pcb
+\i (00:16:09) zoom out 654.79 161.95
+\i (00:16:09) trapsize 1018
+\i (00:16:12) dehilight 
+\i (00:16:13) pick grid 349.28 145.65
+\t (00:16:13) last pick:  349.30 145.70
+\t (00:16:13) Symbol "J2" dehighlighted.
+\i (00:16:14) zoom in 1 
+\i (00:16:14) setwindow pcb
+\i (00:16:14) zoom in 404.27 -43.76
+\i (00:16:14) trapsize 509
+\i (00:16:16) zoom out 1 
+\i (00:16:16) setwindow pcb
+\i (00:16:16) zoom out 299.38 -77.36
+\i (00:16:16) trapsize 1018
+\i (00:16:17) zoom in 1 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom in 737.27 52.99
+\i (00:16:17) trapsize 509
+\i (00:16:18) zoom in 1 
+\i (00:16:18) setwindow pcb
+\i (00:16:18) zoom in 845.22 319.80
+\i (00:16:18) trapsize 255
+\i (00:16:18) zoom in 1 
+\i (00:16:18) setwindow pcb
+\i (00:16:18) zoom in 845.22 319.80
+\i (00:16:18) trapsize 127
+\i (00:16:18) zoom in 1 
+\i (00:16:18) setwindow pcb
+\i (00:16:18) zoom in 832.50 288.24
+\i (00:16:18) trapsize 64
+\i (00:16:19) zoom out 1 
+\i (00:16:19) setwindow pcb
+\i (00:16:19) zoom out 832.37 286.97
+\i (00:16:19) trapsize 127
+\i (00:16:19) zoom out 1 
+\i (00:16:19) setwindow pcb
+\i (00:16:19) zoom out 832.37 286.72
+\i (00:16:19) trapsize 255
+\i (00:16:22) zoom in 1 
+\i (00:16:22) setwindow pcb
+\i (00:16:22) zoom in 833.39 282.64
+\i (00:16:22) trapsize 127
+\i (00:16:23) zoom in 1 
+\i (00:16:23) setwindow pcb
+\i (00:16:23) zoom in 834.41 281.62
+\i (00:16:23) trapsize 64
+\i (00:16:23) zoom out 1 
+\i (00:16:23) setwindow pcb
+\i (00:16:23) zoom out 834.41 281.24
+\i (00:16:23) trapsize 127
+\i (00:16:24) zoom out 1 
+\i (00:16:24) setwindow pcb
+\i (00:16:24) zoom out 834.42 280.99
+\i (00:16:24) trapsize 255
+\i (00:16:24) zoom out 1 
+\i (00:16:24) setwindow pcb
+\i (00:16:24) zoom out 834.42 281.00
+\i (00:16:24) trapsize 509
+\i (00:16:24) zoom out 1 
+\i (00:16:24) setwindow pcb
+\i (00:16:24) zoom out 834.41 281.00
+\i (00:16:24) trapsize 1018
+\i (00:16:24) zoom out 1 
+\i (00:16:24) setwindow pcb
+\i (00:16:24) zoom out 834.41 281.00
+\i (00:16:24) trapsize 2037
+\i (00:16:24) zoom out 1 
+\i (00:16:24) setwindow pcb
+\i (00:16:24) zoom out 1611.01 281.00
+\i (00:16:24) trapsize 4073
+\i (00:16:25) zoom in 1 
+\i (00:16:25) setwindow pcb
+\i (00:16:25) zoom in 344.20 547.87
+\i (00:16:25) trapsize 2037
+\i (00:16:26) zoom in 1 
+\i (00:16:26) setwindow pcb
+\i (00:16:26) zoom in 458.25 584.53
+\i (00:16:26) trapsize 1018
+\i (00:16:28) zoom in 1 
+\i (00:16:28) setwindow pcb
+\i (00:16:28) zoom in 1264.78 617.12
+\i (00:16:28) trapsize 509
+\i (00:16:29) zoom out 1 
+\i (00:16:29) setwindow pcb
+\i (00:16:29) zoom out 1264.78 617.12
+\i (00:16:29) trapsize 1018
+\i (00:16:29) zoom out 1 
+\i (00:16:29) setwindow pcb
+\i (00:16:29) zoom out 1264.78 615.09
+\i (00:16:29) trapsize 2037
+\i (00:16:29) zoom out 1 
+\i (00:16:29) setwindow pcb
+\i (00:16:29) zoom out 1399.20 615.08
+\i (00:16:29) trapsize 4073
+\i (00:41:21) zoom in 1 
+\i (00:41:21) setwindow pcb
+\i (00:41:21) zoom in 83.51 433.82
+\i (00:41:21) trapsize 2037
+\i (00:41:21) zoom in 1 
+\i (00:41:21) setwindow pcb
+\i (00:41:21) zoom in 83.51 433.82
+\i (00:41:21) trapsize 1018
+\i (00:41:22) zoom in 1 
+\i (00:41:22) setwindow pcb
+\i (00:41:22) zoom in 374.76 441.97
+\i (00:41:22) trapsize 509
+\i (00:41:22) zoom in 1 
+\i (00:41:22) setwindow pcb
+\i (00:41:22) zoom in 373.74 441.97
+\i (00:41:22) trapsize 255
+\i (00:41:23) zoom out 1 
+\i (00:41:23) setwindow pcb
+\i (00:41:23) zoom out 373.74 441.97
+\i (00:41:23) trapsize 509
+\i (00:41:24) zoom in 1 
+\i (00:41:24) setwindow pcb
+\i (00:41:24) zoom in 422.62 486.78
+\i (00:41:24) trapsize 255
+\i (00:41:24) zoom in 1 
+\i (00:41:24) setwindow pcb
+\i (00:41:24) zoom in 422.62 486.78
+\i (00:41:24) trapsize 127
+\i (00:41:25) zoom out 1 
+\i (00:41:25) setwindow pcb
+\i (00:41:25) zoom out 431.02 488.82
+\i (00:41:25) trapsize 255
+\i (00:41:25) zoom out 1 
+\i (00:41:25) setwindow pcb
+\i (00:41:25) zoom out 431.53 488.83
+\i (00:41:25) trapsize 509
+\i (00:41:25) zoom out 1 
+\i (00:41:25) setwindow pcb
+\i (00:41:25) zoom out 431.54 488.82
+\i (00:41:25) trapsize 1018
+\i (00:41:25) zoom out 1 
+\i (00:41:25) setwindow pcb
+\i (00:41:25) zoom out 431.53 486.79
+\i (00:41:25) trapsize 2037
+\i (00:41:27) zoom out 1 
+\i (00:41:27) setwindow pcb
+\i (00:41:27) zoom out 393.08 600.85
+\i (00:41:27) trapsize 4073
+\i (00:41:28) zoom in 1 
+\i (00:41:28) setwindow pcb
+\i (00:41:28) zoom in 1101.84 987.79
+\i (00:41:28) trapsize 2037
+\i (00:41:31) artwork 
+\i (00:41:48) setwindow form.film_control
+\i (00:41:48) FORM film_control general_parameters  
+\i (00:41:54) FORM film_control cancel  
+\i (00:41:54) setwindow pcb
+\i (00:41:54) generaledit 
+\i (00:44:24) prmed 
+\i (00:44:26) setwindow form.prmedit
+\i (00:44:26) FORM prmedit design  
+\i (00:44:37) FORM prmedit width 10000.00 
+\i (00:44:47) FORM prmedit height 10000.00 
+\i (00:44:47) FORM prmedit done  
+\i (00:44:47) setwindow pcb
+\i (00:44:47) trapsize 2037
+\i (00:44:47) generaledit 
+\i (00:44:48) zoom out 1 
+\i (00:44:48) setwindow pcb
+\i (00:44:48) zoom out 2103.88 1118.14
+\i (00:44:48) trapsize 4073
+\i (00:44:48) zoom out 1 
+\i (00:44:48) setwindow pcb
+\i (00:44:48) zoom out 3105.93 1248.48
+\i (00:44:48) trapsize 8147
+\i (00:44:52) zoom in 1 
+\i (00:44:52) setwindow pcb
+\i (00:44:52) zoom in 1818.75 -87.57
+\i (00:44:52) trapsize 4073
+\i (00:44:52) zoom in 1 
+\i (00:44:52) setwindow pcb
+\i (00:44:52) zoom in 409.38 -87.57
+\i (00:44:52) trapsize 2037
+\i (00:44:56) zoom out 1 
+\i (00:44:56) setwindow pcb
+\i (00:44:56) zoom out 1175.17 413.46
+\i (00:44:56) trapsize 4073
+\i (00:44:58) save 
+\i (00:44:59) fillin yes 
+\i (00:45:01) generaledit 
+\i (00:45:19) grid toggle 
+\t (00:45:19) Grids are drawn 51.20, 51.20 apart for enhanced viewability.
+\i (00:45:19) generaledit 
+\i (00:45:23) zoom out 1 
+\i (00:45:23) setwindow pcb
+\i (00:45:23) zoom out 4767.85 2698.59
+\t (00:45:23) Grids are drawn 102.40, 102.40 apart for enhanced viewability.
+\i (00:45:23) trapsize 8147
+\i (00:45:23) zoom out 1 
+\i (00:45:23) setwindow pcb
+\i (00:45:23) zoom out 10535.70 5875.80
+\i (00:45:23) trapsize 10183
+\i (00:45:24) zoom out 1 
+\i (00:45:24) setwindow pcb
+\i (00:45:24) zoom out 2462.32 1138.49
+\i (00:45:24) trapsize 10183
+\i (00:45:24) zoom out 1 
+\i (00:45:24) setwindow pcb
+\i (00:45:24) zoom out 2482.69 1158.86
+\i (00:45:24) trapsize 10183
+\i (00:45:25) zoom in 1 
+\i (00:45:25) setwindow pcb
+\i (00:45:25) zoom in 690.43 -755.60
+\t (00:45:25) Grids are drawn 51.20, 51.20 apart for enhanced viewability.
+\i (00:45:25) trapsize 5092
+\i (00:45:26) zoom in 1 
+\i (00:45:26) setwindow pcb
+\i (00:45:26) zoom in -154.79 -755.60
+\t (00:45:26) Grids are drawn 25.60, 25.60 apart for enhanced viewability.
+\i (00:45:26) trapsize 2546
+\i (00:45:26) zoom in 1 
+\i (00:45:26) setwindow pcb
+\i (00:45:26) zoom in -154.78 -755.60
+\t (00:45:26) Grids are drawn 12.80, 12.80 apart for enhanced viewability.
+\i (00:45:26) trapsize 1273
+\i (00:45:27) zoom out 1 
+\i (00:45:27) setwindow pcb
+\i (00:45:27) zoom out -152.23 -725.05
+\t (00:45:27) Grids are drawn 25.60, 25.60 apart for enhanced viewability.
+\i (00:45:27) trapsize 2546
+\i (00:45:28) zoom out 1 
+\i (00:45:28) setwindow pcb
+\i (00:45:28) zoom out -147.14 -725.05
+\t (00:45:28) Grids are drawn 51.20, 51.20 apart for enhanced viewability.
+\i (00:45:28) trapsize 5092
+\i (00:47:15) grid toggle 
+\i (00:47:15) generaledit 
+\i (00:47:22) ncdrill legend 
+\i (00:47:28) setwindow form.nc_drilllegend
+\i (00:47:28) FORM nc_drilllegend done  
+\i (00:47:31) setwindow pcb
+\i (00:47:31) pick grid -73.32 3185.34
+\t (00:47:31) last pick:  -73.30 3185.30
+\t (00:47:31) NC Drill Legend generation successful
+\i (00:47:31) generaledit 
+\i (00:47:36) grid toggle 
+\i (00:47:36) generaledit 
+\i (00:47:40) ncdrill legend 
+\i (00:47:41) setwindow form.nc_drilllegend
+\i (00:47:41) FORM nc_drilllegend done  
+\i (00:47:44) setwindow pcb
+\i (00:47:44) pick grid -63.14 3439.92
+\t (00:47:44) last pick:  -63.10 3439.90
+\t (00:47:44) NC Drill Legend generation successful
+\i (00:47:44) generaledit 
+\i (00:47:48) zoom in 1 
+\i (00:47:48) setwindow pcb
+\i (00:47:48) zoom in 1871.69 242.36
+\t (00:47:48) Grids are drawn 25.60, 25.60 apart for enhanced viewability.
+\i (00:47:48) trapsize 2546
+\i (00:47:48) zoom in 1 
+\i (00:47:48) setwindow pcb
+\i (00:47:48) zoom in 1795.32 232.18
+\t (00:47:48) Grids are drawn 12.80, 12.80 apart for enhanced viewability.
+\i (00:47:48) trapsize 1273
+\i (00:47:49) zoom out 1 
+\i (00:47:49) setwindow pcb
+\i (00:47:49) zoom out 1917.53 293.28
+\t (00:47:49) Grids are drawn 25.60, 25.60 apart for enhanced viewability.
+\i (00:47:49) trapsize 2546
+\i (00:47:49) zoom out 1 
+\i (00:47:49) setwindow pcb
+\i (00:47:49) zoom out 1922.61 313.65
+\t (00:47:49) Grids are drawn 51.20, 51.20 apart for enhanced viewability.
+\i (00:47:49) trapsize 5092
+\i (00:47:51) grid toggle 
+\i (00:47:51) generaledit 
+\i (00:47:57) ncdrill param 
+\i (00:47:57) generaledit 
+\i (00:48:01) setwindow form.nc_parameters
+\i (00:48:01) FORM nc_parameters cancel  
+\i (00:48:09) setwindow pcb
+\i (00:48:09) nctape_full 
+\i (00:48:11) setwindow form.nc_drill
+\i (00:48:11) FORM nc_drill optimize YES 
+\i (00:48:12) FORM nc_drill parameters  
+\i (00:48:14) setwindow form.nc_parameters
+\i (00:48:14) FORM nc_parameters enhanced_format YES 
+\i (00:48:21) FORM nc_parameters done  
+\i (00:48:23) setwindow form.nc_drill
+\i (00:48:23) FORM nc_drill parameters  
+\i (00:48:25) setwindow form.nc_parameters
+\i (00:48:25) FORM nc_parameters done  
+\i (00:48:28) setwindow form.nc_drill
+\i (00:48:28) FORM nc_drill execute  
+\t (00:48:28) Starting Generating NC Drill...
+\i (00:48:31) FORM nc_drill cancel  
+\i (00:48:31) setwindow pcb
+\i (00:48:31) generaledit 
+\i (00:48:55) artwork 
+\i (00:48:57) setwindow form.film_control
+\i (00:48:57) FORM film_control general_parameters  
+\i (00:48:59) FORM film_control film_control  
+\i (00:49:03) FORM film_control select_all  
+\i (00:49:05) FORM film_control create  
+\t (00:49:05) Checking db records
+\t (00:49:05)     checking for orphans...
+\t (00:49:05)     Checked 100 percent
+\t (00:49:05) Done dbdoctor.
+\t (00:49:05) Starting Create artwork films...
+\w (00:49:05) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:49:06) Artwork generated with warnings.
+\i (00:49:08) setwindow text
+\i (00:49:08) close 
+\i (01:06:38) setwindow form.film_control
+\i (01:06:38) FORM film_control filmtree  'REF DES/SILKSCREEN_BOTTOM' SILKSCREEN_BOTTOM 
+\i (01:06:40) FORM film_control filmtree popup Cut 'REF DES/SILKSCREEN_BOTTOM' SILKSCREEN_BOTTOM 
+\i (01:06:55) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' SILKSCREEN_TOP 
+\i (01:06:56) FORM film_control filmtree popup Cut 'REF DES/SILKSCREEN_TOP' SILKSCREEN_TOP 
+\i (01:08:14) FORM film_control select_all  
+\i (01:08:18) FORM film_control general_parameters  
+\i (01:08:21) FORM film_control film_control  
+\i (01:08:23) FORM film_control create  
+\t (01:08:23) Starting Create artwork films...
+\w (01:08:24) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (01:08:25) Artwork generated with warnings.
+\i (01:08:32) setwindow text
+\i (01:08:32) close 
+\i (01:08:33) setwindow form.film_control
+\i (01:08:33) FORM film_control cancel  
+\i (01:08:33) setwindow pcb
+\i (01:08:33) generaledit 
+\i (01:08:41) nctape_full 
+\i (01:08:42) setwindow form.nc_drill
+\i (01:08:42) FORM nc_drill parameters  
+\i (01:08:45) setwindow form.nc_parameters
+\i (01:08:45) FORM nc_parameters enhanced_format YES 
+\i (01:08:47) FORM nc_parameters done  
+\i (01:08:49) setwindow form.nc_drill
+\i (01:08:49) FORM nc_drill optimize YES 
+\i (01:08:53) FORM nc_drill parameters  
+\i (01:08:56) setwindow form.nc_parameters
+\i (01:08:56) FORM nc_parameters done  
+\i (01:09:12) setwindow form.nc_drill
+\i (01:09:12) FORM nc_drill parameters  
+\i (01:09:16) setwindow form.nc_parameters
+\i (01:09:16) FORM nc_parameters done  
+\i (01:09:23) setwindow form.nc_drill
+\i (01:09:23) FORM nc_drill execute  
+\t (01:09:23) Starting Generating NC Drill...
+\i (01:09:26) FORM nc_drill cancel  
+\i (01:09:26) setwindow pcb
+\i (01:09:26) generaledit 
+\i (01:31:07) zoom in 1 
+\i (01:31:07) setwindow pcb
+\i (01:31:07) zoom in 293.28 89.61
+\i (01:31:07) trapsize 2546
+\i (01:31:07) zoom in 1 
+\i (01:31:07) setwindow pcb
+\i (01:31:07) zoom in 293.28 84.53
+\i (01:31:07) trapsize 1273
+\i (01:31:07) zoom in 1 
+\i (01:31:07) setwindow pcb
+\i (01:31:07) zoom in 293.28 84.53
+\i (01:31:07) trapsize 636
+\i (01:31:08) zoom out 1 
+\i (01:31:08) setwindow pcb
+\i (01:31:08) zoom out 776.98 45.07
+\i (01:31:08) trapsize 1273
+\i (01:31:08) zoom out 1 
+\i (01:31:08) setwindow pcb
+\i (01:31:08) zoom out 779.54 39.98
+\i (01:31:08) trapsize 2546
+\i (01:31:51) artwork 
+\i (01:31:56) setwindow form.film_control
+\i (01:31:56) FORM film_control cancel  
+\i (01:31:56) setwindow pcb
+\i (01:31:56) generaledit 
+\i (01:38:48) exit 
+\e (01:38:48) Do you want to save the changes you made to F:/对外项目/激光测距/Hardware/PCB/VL53L0X.brd?
+\i (01:38:49) fillin yes 
+   (01:38:49) Loading signal.cxt 
+\t (01:38:49)     Journal end - Fri Sep 30 12:10:27 2016

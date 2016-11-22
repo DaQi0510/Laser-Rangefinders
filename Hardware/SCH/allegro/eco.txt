@@ -1,0 +1,393 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this new net
+                                 C1.1           C2.1           C3.1           
+                                 C4.1           C5.1           C6.1           
+                                 C7.1           C8.1           C9.1           
+                                 C10.1          C11.1          C12.1          
+                                 C13.1          C14.1          C15.2          
+                                 C16.1          C17.2          C18.1          
+                                 C19.2          C20.1          C21.2          
+                                 C22.1          J1.3           J1.4           
+                                 J2.2           K1.2           K1.3           
+                                 M1.1           M2.1           M3.1           
+                                 M4.1           O1.2           O1.4           
+                                 Q1.2           Q2.2           R1.1           
+                                 R2.1           R3.2           R10.1          
+                                 R18.1          U1.12          U1.18          
+                                 U1.31          U1.47          U1.63          
+                                 U2.11          U3.2           U3.3           
+                                 U3.4           U3.6           U3.12          
+                                 U4.1           U4.2           U4.3           
+                                 U4.4           U4.7           U5.1           
+                                 U6.2           U6.4           U7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTCK         pins ADDED TO this new net
+                                 J1.1           R3.1           U1.49          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTMS         pins ADDED TO this new net
+                                 J1.2           R4.2           U1.46          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00130       pins ADDED TO this new net
+                                 U1.56          U2.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00134       pins ADDED TO this new net
+                                 U1.57          U2.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00138       pins ADDED TO this new net
+                                 U1.58          U2.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00228       pins ADDED TO this new net
+                                 R16.2          U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00232       pins ADDED TO this new net
+                                 R17.2          U1.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00288       pins ADDED TO this new net
+                                 C14.2          K1.1           K1.4           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R13.1          U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00397       pins ADDED TO this new net
+                                 R11.1          U1.43          U4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00401       pins ADDED TO this new net
+                                 R12.1          U1.42          U4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00686       pins ADDED TO this new net
+                                 U1.61          U5.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00690       pins ADDED TO this new net
+                                 U1.62          U5.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00694       pins ADDED TO this new net
+                                 U1.29          U5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00698       pins ADDED TO this new net
+                                 U1.30          U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N015161      pins ADDED TO this new net
+                                 D3.2           R18.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206718      pins ADDED TO this new net
+                                 R1.2           U1.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206722      pins ADDED TO this new net
+                                 R2.2           U1.60          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N212005      pins ADDED TO this new net
+                                 R9.1           U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N212009      pins ADDED TO this new net
+                                 R8.1           U2.3           U3.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N212016      pins ADDED TO this new net
+                                 R7.1           U2.4           U3.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N212023      pins ADDED TO this new net
+                                 R6.1           U2.5           U3.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N214668      pins ADDED TO this new net
+                                 D1.1           R15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N214670      pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 D1.2           Q1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1940739     pins ADDED TO this new net
+                                 R10.2          U2.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N2134190     pins ADDED TO this new net
+                                 Q1.1           R16.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N2142270     pins ADDED TO this new net
+                                 Q2.1           R17.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N2142271     pins ADDED TO this new net
+                                 D2.2           Q2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N2142670     pins ADDED TO this new net
+                                 D2.1           R14.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NRST         pins ADDED TO this new net
+                                 R5.2           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OSC_IN       pins ADDED TO this new net
+                                 C7.2           O1.3           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OSC_OUT      pins ADDED TO this new net
+                                 C6.2           O1.1           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_5        pins ADDED TO this new net
+                                 R14.2          R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_5V       pins ADDED TO this new net
+                                 C15.1          C16.2          C19.1          
+                                 C20.2          J2.1           U6.1           
+                                 U6.3           U7.1           U7.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD2.8       pins ADDED TO this new net
+                                 C8.2           C9.2           C13.2          
+                                 C17.1          C18.2          R6.2           
+                                 R7.2           R8.2           R9.2           
+                                 U2.2           U3.1           U3.11          
+                                 U6.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD3.3       pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.2           C5.2           C10.2          
+                                 C11.2          C12.2          C21.1          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C22.2          D3.1           R4.1           
+                                 R5.1           R11.2          R12.2          
+                                 R13.2          U1.13          U1.19          
+                                 U1.32          U1.48          U1.64          
+                                 U2.19          U4.8           U5.2           
+                                 U7.5           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 0.96LCD_H-3-2_0.96LCD
+ AT24C02_AT24C02-SOIC_AT24C02
+ CAP+_CAP-3216_10UF
+ CAP_0603_0.1UF
+ CAP_0603_22PF
+ CAP_0805_0.1UF
+ CAP_0805_4.7UF
+ HEADER 2/SM_H-2_HEADER2
+ HEADER2*2_H-2-2_HEADER2*2
+ KEY_MINI-KEY_KEY
+ LED_H-2_RED
+ LED_LED-0603_POWER
+ MTG_MTG-450-320_MTG
+ OSC-N_OSC-3225_8M
+ RES_0603_0R
+ RES_0603_1.5K
+ RES_0603_10K
+ RES_0603_200R
+ RES_0603_4.7K
+ S9014_S9014-SOT23_S9014
+ STM32F103RBT6_STM32F103_LQFP64_
+ TPS78228DDCR_SOT-25_TPS78228DDC
+ TXS0108EPWR_TXS0108EPWR-TSSOP20
+ VL53L0X_VL53L0X_VL53L0X
+ XC6219F331_SOT-25_XC6219F331
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP_0603_0.1UF        
+ C2                  CAP_0603_0.1UF        
+ C3                  CAP_0603_0.1UF        
+ C4                  CAP_0603_0.1UF        
+ C5                  CAP_0603_0.1UF        
+ C6                  CAP_0603_22PF         
+ C7                  CAP_0603_22PF         
+ C8                  CAP_0603_0.1UF        
+ C9                  CAP_0805_4.7UF        
+ C10                 CAP_0603_0.1UF        
+ C11                 CAP_0603_0.1UF        
+ C12                 CAP_0603_0.1UF        
+ C13                 CAP_0603_0.1UF        
+ C14                 CAP_0603_0.1UF        
+ C15                 CAP+_CAP-3216_10UF    
+ C16                 CAP_0805_0.1UF        
+ C17                 CAP+_CAP-3216_10UF    
+ C18                 CAP_0805_0.1UF        
+ C19                 CAP+_CAP-3216_10UF    
+ C20                 CAP_0805_0.1UF        
+ C21                 CAP+_CAP-3216_10UF    
+ C22                 CAP_0805_0.1UF        
+ D1                  LED_H-2_RED           
+ D2                  LED_H-2_RED           
+ D3                  LED_LED-0603_POWER    
+ J1                  HEADER2*2_H-2-2_HEADER2*2 
+ J2                  HEADER 2/SM_H-2_HEADER2 
+ K1                  KEY_MINI-KEY_KEY      
+ M1                  MTG_MTG-450-320_MTG   
+ M2                  MTG_MTG-450-320_MTG   
+ M3                  MTG_MTG-450-320_MTG   
+ M4                  MTG_MTG-450-320_MTG   
+ O1                  OSC-N_OSC-3225_8M     
+ Q1                  S9014_S9014-SOT23_S9014 
+ Q2                  S9014_S9014-SOT23_S9014 
+ R1                  RES_0603_10K          
+ R2                  RES_0603_10K          
+ R3                  RES_0603_10K          
+ R4                  RES_0603_10K          
+ R5                  RES_0603_10K          
+ R6                  RES_0603_10K          
+ R7                  RES_0603_10K          
+ R8                  RES_0603_10K          
+ R9                  RES_0603_10K          
+ R10                 RES_0603_0R           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R11                 RES_0603_10K          
+ R12                 RES_0603_10K          
+ R13                 RES_0603_10K          
+ R14                 RES_0603_200R         
+ R15                 RES_0603_200R         
+ R16                 RES_0603_4.7K         
+ R17                 RES_0603_4.7K         
+ R18                 RES_0603_1.5K         
+ U1                  STM32F103RBT6_STM32F103_LQFP64_ 
+ U2                  TXS0108EPWR_TXS0108EPWR-TSSOP20 
+ U3                  VL53L0X_VL53L0X_VL53L0X 
+ U4                  AT24C02_AT24C02-SOIC_AT24C02 
+ U5                  0.96LCD_H-3-2_0.96LCD 
+ U6                  TPS78228DDCR_SOT-25_TPS78228DDC 
+ U7                  XC6219F331_SOT-25_XC6219F331 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ D3.2                           PRIM_FILE      .\pstchip.dat
+ J1.4                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ K1.4                           PRIM_FILE      .\pstchip.dat
+ M1.1                           PRIM_FILE      .\pstchip.dat
+ M2.1                           PRIM_FILE      .\pstchip.dat
+ M3.1                           PRIM_FILE      .\pstchip.dat
+ M4.1                           PRIM_FILE      .\pstchip.dat
+ O1.3                           PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  VL53L0X.brd                                                                 |
+|                                                    Tue Sep 27 21:56:14 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ U1.12                          PRIM_FILE      .\pstchip.dat
+ U2.19                          PRIM_FILE      .\pstchip.dat
+ U3.5                           PRIM_FILE      .\pstchip.dat
+ U4.7                           PRIM_FILE      .\pstchip.dat
+ U5.2                           PRIM_FILE      .\pstchip.dat
+ U6.2                           PRIM_FILE      .\pstchip.dat
+ U7.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     183                                        |
+|       Comp definitions added:      25                                        |
+|       Components added      :      60                                        |
+|       Slot property added   :      60                                        |
+|                                                                              |
+|   Total ECO changes reported:     328                                        |
+|------------------------------------------------------------------------------|
